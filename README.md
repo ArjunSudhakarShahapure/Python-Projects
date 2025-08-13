@@ -1,23 +1,28 @@
-# Python Projects Repository
+<!-- Python Logo -->
+<p align="center">
+  <img src="https://www.python.org/static/community_logos/python-logo.png" width="400" alt="Python Logo">
+</p>
 
-![Logo](https://raw.githubusercontent.com/ArjunSudhakarShahapure/python-projects/main/logo.png)
-
-Welcome to the Python Projects repo! 🚀  
-This repository serves as a showcase and workspace for various Python programs, ranging from beginner exercises to advanced automation scripts.
-
----
-
-## 📊 Repository Overview
-
-- **Total Programs:** <!--PROGRAM_COUNT-->
-- **Language:** Python 3.x
-- **Repo Owner:** [ArjunSudhakarShahapure](https://github.com/ArjunSudhakarShahapure)
+<h1 align="center">🐍 Python From Scratch — 20 Days to Jarvis</h1>
+<p align="center">My journey from Python basics to building my own voice assistant 🤖</p>
 
 ---
 
-## 🗂️ Project Structure
+<!-- Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20with-Python-3776AB?logo=python&logoColor=white" alt="Python Badge">
+  <img src="https://img.shields.io/github/directory-file-count/YOUR-USERNAME/YOUR-REPO" alt="Files Count">
+  <img src="https://img.shields.io/github/commit-activity/m/YOUR-USERNAME/YOUR-REPO" alt="Commit Activity">
+  <img src="https://img.shields.io/github/last-commit/YOUR-USERNAME/YOUR-REPO" alt="Last Commit">
+</p>
 
-Each program is located in its own folder with:
-- Source code
-- README explaining its functionality
-- Example input/output (where applicable)
+---
+
+## 📚 About This Repository
+This repository contains my **step-by-step learning process** for Python programming.  
+It starts with **simple programs** and grows into **intermediate projects**, ending with my **own Jarvis AI assistant**.
+
+---
+
+## 🗂 Repository Structure
+
