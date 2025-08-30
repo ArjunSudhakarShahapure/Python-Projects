@@ -7,12 +7,13 @@ This repository covers everything from **basics (variables, loops, input/output)
 
 ## 📊 Repo Stats  
 
-![Commits](https://img.shields.io/github/commit-activity/m/ArjunSudhakarShahapure/python-codes?label=commits)  
-![Last Commit](https://img.shields.io/github/last-commit/ArjunSudhakarShahapure/python-codes)  
-![Repo Size](https://img.shields.io/github/repo-size/ArjunSudhakarShahapure/python-codes)  
-![Files](https://img.shields.io/github/directory-file-count/ArjunSudhakarShahapure/python-codes)  
-![Language](https://img.shields.io/github/languages/top/ArjunSudhakarShahapure/python-codes?color=blue&logo=python)  
-![License](https://img.shields.io/github/license/ArjunSudhakarShahapure/python-codes)  
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ArjunSudhakarShahapure/Python-Projects)
+![GitHub last commit](https://img.shields.io/github/last-commit/ArjunSudhakarShahapure/Python-Projects)
+![GitHub repo size](https://img.shields.io/github/repo-size/ArjunSudhakarShahapure/Python-Projects)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/ArjunSudhakarShahapure/Python-Projects)
+![GitHub language count](https://img.shields.io/github/languages/count/ArjunSudhakarShahapure/Python-Projects)
+![GitHub top language](https://img.shields.io/github/languages/top/ArjunSudhakarShahapure/Python-Projects)
 
 ---
 
