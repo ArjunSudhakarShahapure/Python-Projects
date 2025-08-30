@@ -1,26 +1,41 @@
-<p align="center">
-  <img src="https://www.python.org/static/community_logos/python-logo.png" width="300" alt="Python Logo">
-</p>
+# 🐍 Python Codes Repository  
 
-<h1 align="center">🐍 Python From Scratch — 20 Days to Jarvis</h1>
-<p align="center">My step-by-step journey from Python basics to building a Jarvis voice assistant</p>
+A collection of Python programs and beginner-friendly projects created while learning Python.  
+This repository covers everything from **basics (variables, loops, input/output)** to **mini projects** like a Fake News Generator and a Calculator with History.  
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Made%20with-Python-3776AB?logo=python&logoColor=white" alt="Python Badge">
-  <img src="https://img.shields.io/github/directory-file-count/ArjunSudhakarShahapure/Python-Projects" alt="Files Count">
-  <img src="https://img.shields.io/github/commit-activity/m/ArjunSudhakarShahapure/Python-Projects" alt="Commit Activity">
-  <img src="https://img.shields.io/github/last-commit/ArjunSudhakarShahapure/Python-Projects" alt="Last Commit">
-</p>
+## 📊 Repo Stats  
+
+![Commits](https://img.shields.io/github/commit-activity/m/ArjunSudhakarShahapure/python-codes?label=commits)  
+![Last Commit](https://img.shields.io/github/last-commit/ArjunSudhakarShahapure/python-codes)  
+![Repo Size](https://img.shields.io/github/repo-size/ArjunSudhakarShahapure/python-codes)  
+![Files](https://img.shields.io/github/directory-file-count/ArjunSudhakarShahapure/python-codes)  
+![Language](https://img.shields.io/github/languages/top/ArjunSudhakarShahapure/python-codes?color=blue&logo=python)  
+![License](https://img.shields.io/github/license/ArjunSudhakarShahapure/python-codes)  
 
 ---
 
-##  About This Repository
-This repo documents my learning journey — starting with simple Python exercises and gradually building up to a voice-enabled Jarvis assistant.
+## 📂 Repository Structure  
+
+- `DataTypes and Variables.py` → Learn Python variables and data types  
+- `Print & Input.py` → Getting user input and displaying output  
+- `loops.py` → Practice loops in Python  
+- `PYTHON_Fake_News_Generator.ipynb` → Generates random fake news headlines  
+- `python_calculator_history.py` → Calculator that performs operations and saves history  
 
 ---
 
-##  Repository Structure
+## 🚀 Features  
 
+✔️ Beginner-friendly Python examples  
+✔️ Step-by-step learning of Python basics  
+✔️ Mini-projects to apply concepts in real code  
+✔️ Covers essential topics: variables, loops, input/output, randomness, and file handling  
+✔️ Great reference repo for Python learners  
 
+---
+
+## 📌 Example Outputs  
+
+### 📰 Fake News Generator  
